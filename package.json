@@ -1,0 +1,21 @@
+{
+  "name": "fbnewsfeedblocker",
+  "version": "1.0.0",
+  "description": "You want to keep facebook but without the news feed , this chrome extension is made for you.",
+  "main": "background.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "chrome",
+    "extension",
+    "news",
+    "feed",
+    "facebook"
+  ],
+  "author": "lAst-P@cIfIst",
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "^3.3.1"
+  }
+}
